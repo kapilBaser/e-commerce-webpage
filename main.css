@@ -46,9 +46,6 @@ nav a{
 nav ul{
     list-style: none;
 }
-nav{
-    display: none;
-}
 .menu{
     width: 2.3em;
     padding-right: 1em;
@@ -93,7 +90,7 @@ nav{
     background-color: white;
     width: 50%;
     height: 100vh;
-    z-index: 500;
+    z-index: 900;
     transform: translateX(100%);
     overflow-x: hidden;
     /* transition: transform .5s ease-out; */
