@@ -7,7 +7,7 @@
     src: url(/fonts/Poppins-Bold.ttf);
 }
 body{
-    font-family: poppins;
+    font-family: poppins sans-serif;
     margin: 1em;
     overflow-x: hidden;
     font-size: 1.2rem;
